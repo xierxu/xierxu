@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xierxu
-- 👀 I’m interested in web development
+- 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning HTML, CSS, & JS
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ...
